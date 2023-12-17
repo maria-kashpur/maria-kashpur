@@ -45,7 +45,7 @@
   <img alt="vscode" src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40"/>
   <img alt="sublimetext" src="https://img.shields.io/badge/sublime%20text-FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white" height="40"/>
   <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" height="40"/>
-  <img alt="eslint" src="https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" height="40"/>
+  <img alt="prettier" src="https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" height="40"/>
 </div>
 
 ## **Codewars:**

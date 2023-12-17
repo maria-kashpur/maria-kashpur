@@ -50,4 +50,4 @@
 <p><img align="center" src="https://www.codewars.com/users/rsschool_dbcea99c932e9e7e/badges/micro" alt="codewars" /></p>
 
 ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maria-kashpur)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-zeta-six.vercel.app?user=maria-kashpur)](https://git.io/streak-stats)

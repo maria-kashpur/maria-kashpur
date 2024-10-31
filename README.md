@@ -8,8 +8,6 @@
 
 👀 I never stop learning.
 
-🕘  In the future I plan to become an full-stack developer
-
 ## **Connect with me:**
 <a href="https://discord.com/users/1048681613749399552" target="_blank">
   <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>

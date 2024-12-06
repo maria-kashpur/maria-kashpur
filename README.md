@@ -48,7 +48,7 @@
 
 ## **Projects:**
 
-You can see my projects and additional information about me in my <a href="https://maria-kashpur.github.io/minesweeper/" target="_blank">
+You can see my projects and additional information about me in my <a href="https://maria-kashpur.github.io/cv/" target="_blank">
  cv.
 </a>
 

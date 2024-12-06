@@ -51,6 +51,3 @@
 You can see my projects and additional information about me in my <a href="https://maria-kashpur.github.io/cv/" target="_blank">
  cv.
 </a>
-
-##
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maria-kashpur)](https://git.io/streak-stats)
